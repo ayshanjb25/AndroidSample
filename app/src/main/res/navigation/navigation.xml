@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/studentRegistration2">
+
+    <fragment
+        android:id="@+id/accountInformation"
+        android:name="com.example.mytest.fragments.AccountInformation"
+        android:label="fragment_account_information"
+        tools:layout="@layout/fragment_account_information" />
+    <fragment
+        android:id="@+id/manageProfile"
+        android:name="com.example.mytest.fragments.ManageProfile"
+        android:label="fragment_manage_profile"
+        tools:layout="@layout/fragment_manage_profile" />
+    <fragment
+        android:id="@+id/viewRegisteredStudents"
+        android:name="com.example.mytest.fragments.ViewRegisteredStudents"
+        android:label="fragment_view_registered_students"
+        tools:layout="@layout/fragment_view_registered_students" />
+    <fragment
+        android:id="@+id/studentRegistration2"
+        android:name="com.example.mytest.fragments.StudentRegistration"
+        android:label="fragment_student_registration2"
+        tools:layout="@layout/fragment_student_registration2" />
+</navigation>

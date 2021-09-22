@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/account_infomation_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/account_information_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/fragment_account_information.xml" value="0.36277173913043476" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/fragment_homepage.xml" value="0.35260416666666666" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/fragment_manage_profile.xml" value="0.36277173913043476" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/fragment_student_registration.xml" value="0.35260416666666666" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/fragment_student_registration2.xml" value="0.36666666666666664" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/fragment_view_registered_students.xml" value="0.36277173913043476" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/layout/view_registered_students_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/DESKTOP-0DHJUB3/MyTest/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
